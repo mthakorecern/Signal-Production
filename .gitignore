@@ -1,0 +1,9 @@
+CMSSW_14_0_18/
+CMSSW_15_0_2/
+# Campaign
+campaign/fragments/
+
+# General
+*.log
+*.pyc
+*.csv
